@@ -1,8 +1,6 @@
 
 
 ; Author:  Joseph Houghton
-; Last Modified:  3/2/2023
-; email address:  jojohoughton22@gmail.com
 ; Description:  a random number generator which also calculates and displays data on those random numbers
 
 
